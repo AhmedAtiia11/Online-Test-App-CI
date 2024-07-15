@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    # command: bash -c "python3 manage.py makemigrations && python3 manage.py migrate && python3 manage.py runserver 0.0.0.0:5000"
+    container_name: backend_app
+    volumes:
+      - .:/App
+    ports:
+      - "5000:5000"

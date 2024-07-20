@@ -94,4 +94,3 @@ The Connection Test Application is designed to demonstrate the integration betwe
    - Push the Docker images to DockerHub Registry.
    - Trigger the "Connection-Test-App-CD" job, passing the commit number as a parameter.
 
-This streamlined process ensures an efficient and reliable deployment workflow, leveraging industry-standard DevOps tools and practices.

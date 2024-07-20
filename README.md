@@ -76,7 +76,7 @@ The Connection Test Application is designed to demonstrate the integration betwe
 
 3. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application running online.
 
-### Fully Automated Project
+## Fully Automated Project
 
 1. **Push changes to GitHub**:
    Push changes to the GitHub repository `Online-Test-App-CI`.
